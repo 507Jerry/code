@@ -45,7 +45,7 @@ export default function HomePage() {
       <footer className="bg-white border-t mt-12">
         <div className="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
           <div className="text-center text-sm text-gray-500">
-            <p>© 2024 QR Code Generator. Built with React & Tailwind CSS.</p>
+            <p>© 2025 QR Code Generator MADE BY NUNU IS CAT</p>
           </div>
         </div>
       </footer>
